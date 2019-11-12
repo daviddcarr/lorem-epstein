@@ -24,7 +24,7 @@
                         <h1 class="title m-b-md text-light">
                             Lorem Epstein
                         </h1>
-                        <button class="btn btn-primary" id="bold-toggler">What Happened to Epstein?</button>
+                        <button class="btn btn-primary mb-3" id="bold-toggler">What Happened to Epstein?</button>
                         <div class="paragraphs text-light">
                          {!! $paragraphs !!}
                         </div>

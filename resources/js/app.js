@@ -32,5 +32,5 @@ const app = new Vue({
 });
 
 $("#bold-toggler").click(function(){
-  $(".toggle-bold").toggleClass('font-weight-bold text-uppercase');
+  $(".toggle-bold").toggleClass('font-weight-bold text-uppercase text-danger');
 })

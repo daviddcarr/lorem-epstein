@@ -49372,7 +49372,7 @@ var app = new Vue({
   el: '#app'
 });
 $("#bold-toggler").click(function () {
-  $(".toggle-bold").toggleClass('font-weight-bold text-uppercase');
+  $(".toggle-bold").toggleClass('font-weight-bold text-uppercase text-danger');
 });
 
 /***/ }),
